@@ -80,4 +80,5 @@ Content/*
 !Content/Projects
 !Content/Vielib
 !Content/Megascans
+!Content/CityPark
 *.zip
